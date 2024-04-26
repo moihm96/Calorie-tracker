@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Calorie tracker</h1>
+      <h1 className="">Calorie tracker</h1>
     </>
   );
 }
